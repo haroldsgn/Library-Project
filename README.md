@@ -11,5 +11,3 @@ This Library Project is a web-based application designed to help you manage and 
 - Flask: Web framework for creating the application.
 - SQLAlchemy: SQL toolkit for managing the database.
 - SQLite: Lightweight relational database for data storage.
-
-- 
